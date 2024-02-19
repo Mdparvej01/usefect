@@ -35,6 +35,7 @@ function App(){
      <Card myname="parvej"  list={list1}   />  
      <button >get details</button>
      <button >get2 details99</button>
+     <button >get2 details99</button>
      </>
        
        

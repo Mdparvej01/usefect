@@ -34,7 +34,7 @@ function App(){
      <div>App</div>   
      <Card myname="parvej"  list={list1}   />  
      <button >get details</button>
-     <button >get2 details1</button>
+     <button >get2 details99</button>
      </>
        
        

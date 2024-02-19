@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/usefect/static/js/main.2ef0ab1e.js",
+    "main.js": "/usefect/static/js/main.c89472f8.js",
     "index.html": "/usefect/index.html",
-    "main.2ef0ab1e.js.map": "/usefect/static/js/main.2ef0ab1e.js.map"
+    "main.c89472f8.js.map": "/usefect/static/js/main.c89472f8.js.map"
   },
   "entrypoints": [
-    "static/js/main.2ef0ab1e.js"
+    "static/js/main.c89472f8.js"
   ]
 }
